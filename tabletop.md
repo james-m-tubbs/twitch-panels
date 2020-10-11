@@ -1,5 +1,5 @@
 # Current Leagues
-- **Hogtown Bloodbowl League** - [Season 11](http://manager.thehobble.com/handler.php?type=leaguetables&tour_id=48) ([Toronto, ON, :us:](https://www.google.com/maps/place/Toronto,+ON/@43.7184038,-79.5181407,11z/data=!3m1!4b1!4m5!3m4!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843))
+- **Hogtown Bloodbowl League** - [Season 11](http://manager.thehobble.com/handler.php?type=leaguetables&tour_id=48) ([Toronto, ON, :canada::maple_leaf:](https://www.google.com/maps/place/Toronto,+ON/@43.7184038,-79.5181407,11z/data=!3m1!4b1!4m5!3m4!1s0x89d4cb90d7c63ba5:0x323555502ab4c477!8m2!3d43.653226!4d-79.3831843))
 
 # Recent Awards
 - **1st Overall** - [Hogtown Season 11](http://manager.thehobble.com/handler.php?type=leaguetables&tour_id=42)
